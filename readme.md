@@ -1,3 +1,4 @@
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522data%2Bengineer%2522&psig=AOvVaw1wOSrRAdtTsB-pGA0DCZtU&ust=1709474776735000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj7gfzf1YQDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Pratik Mahajan</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
