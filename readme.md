@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522data%2Bengineer%2522&psig=AOvVaw1wOSrRAdtTsB-pGA0DCZtU&ust=1709474776735000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj7gfzf1YQDFQAAAAAdAAAAABAE)
+![logo](https://github.com/pratikm17/pratikm17/blob/1baed125fd035328bf901c47bb13b5c83820f3dc/banner.png)
 <h1 align="center">Hi 👋, I'm Pratik Mahajan</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
